@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807529460370",
+    "project_id": "daily-y",
+    "storage_bucket": "daily-y.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807529460370:android:a78ca2f5f656eff7c66c4b",
+        "android_client_info": {
+          "package_name": "com.example.finalproject_dailyy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807529460370-b19ovka50s9p0l058r6ftafgdn57pqut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvGA-ZnFOS4ySEZqf5qhLqDbgOQP6lxns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807529460370-b19ovka50s9p0l058r6ftafgdn57pqut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
